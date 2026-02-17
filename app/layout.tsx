@@ -6,7 +6,7 @@ import './globals.css'
 const interTight = Inter_Tight({ subsets: ["latin", "latin-ext"] });
 
 export const metadata: Metadata = {
-  title: 'Naszarandka',
+  title: 'OFSINNIA',
   description: 'Flirt, napięcie i ekscytacja bez granic.',
   icons: {
     icon: 'https://r.mobirisesite.com/1676590/assets/images/drawn-love-hearts.svg-128x106.png?v=1VQk6W',
