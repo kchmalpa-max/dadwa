@@ -30,7 +30,7 @@ export function HeroSection() {
         <div className="w-full max-w-md overflow-hidden rounded-lg">
           <Image
             src="https://r.mobirisesite.com/1676590/assets/images/image2012-768x1360.jpeg?v=1VQk6W"
-            alt="Naszarandka"
+            alt="OFSINNIA"
             width={768}
             height={1360}
             className="h-auto w-full object-cover"
