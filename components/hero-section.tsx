@@ -16,13 +16,13 @@ export function HeroSection({ locale }: { locale: Locale }) {
           </p>
           <div className="mt-6 flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
             <a
-              href="https://radarkobiet.pl/link/3024/69385785"
+              href="https://radarkobiet.pl/link/2994/69385785"
               className="inline-flex items-center justify-center rounded-md border border-primary px-6 py-3 text-sm font-medium text-primary transition-colors hover:bg-primary hover:text-primary-foreground"
             >
               {t.ctaPhotos}
             </a>
             <a
-              href="https://radarkobiet.pl/link/3024/69385785"
+              href="https://radarkobiet.pl/link/2994/69385785"
               className="inline-flex items-center justify-center rounded-md border border-primary px-6 py-3 text-sm font-medium text-primary transition-colors hover:bg-primary hover:text-primary-foreground"
             >
               {t.ctaContact}
